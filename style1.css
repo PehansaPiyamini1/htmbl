@@ -39,3 +39,15 @@ table.C{
     left: 400px;
 }
 
+p.D,p.E,p.F{
+    position: relative;
+    left: 650px;
+}
+
+
+p.G{
+    position: relative;
+    left: 700px;
+    top: 20px;
+}
+
