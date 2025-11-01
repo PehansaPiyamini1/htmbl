@@ -8,7 +8,11 @@ img{
     height: 300px;
     border-radius: 50%;
     position: relative;
-    left: 600px;
+    left: 600px;  
+}
 
-    
+
+h1{
+    position: relative;
+    left: 600px;
 }
