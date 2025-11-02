@@ -25,7 +25,7 @@ h2{
 
 h3.A{
     position: relative;
-    left: 500px;
+    left: 470px;
 }
 
 h3.B{
@@ -67,4 +67,15 @@ a.I{
 a.J{
     position: relative;
     left: 800px;
+}
+
+h6.uni{
+    position: relative;
+    left: 600px;
+    top: 80px;
+}
+
+p.K{
+    position: relative;
+    top: 10px;
 }
